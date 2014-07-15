@@ -24,6 +24,10 @@ namespace HotelReservationSystem.Properties
             get
             {
                 return defaultInstance;
+                
+                
+                
+                
             }
         }
     }
